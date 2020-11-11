@@ -1,2 +1,2 @@
 bislan_taymaskhanov@mail.ru
-"# sculptor2" 
+Test version VK Mini App "Sculptor"
