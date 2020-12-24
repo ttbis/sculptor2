@@ -1,22 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import bridge from '@vkontakte/vk-bridge';
 import View from '@vkontakte/vkui/dist/components/View/View';
-import ScreenSpinner from '@vkontakte/vkui/dist/components/ScreenSpinner/ScreenSpinner';
 import '@vkontakte/vkui/dist/vkui.css';
-
 import Home from './panels/Home';
-
 import Training from './panels/Training';
 import Lvl1 from './panels/levels/lvl1';
 import Lvl2 from './panels/levels/lvl2';
 import Lvl3 from './panels/levels/lvl3';
-
 import Food from './panels/Food';
 import Calc from './panels/foods/Calc';
 import Diet from './panels/foods/Diet';
-
 import Music from './panels/Music';
-
 import Sportsfood from './panels/Sportsfood';
 import Profile from './panels/Profile';
 
@@ -37,6 +31,7 @@ const App = () => {
 			const user = await bridge.send('VKWebAppGetUserInfo');
 			setUser(user);
 			setPopout(null);
+		//	const group = await bridge.send("VKWebAppJoinGroup", { "group_id": 195328287 });
 		}
 		fetchData();
 	}, []);

@@ -7,6 +7,23 @@
   max-width: 250px;
   margin: 20px auto;
 }
+/* Профиль */
+#prfl {
+  font-family: Tahoma;
+  font-size:150%;
+  font-weight: bold;
+  color: white;
+  text-shadow: black 0 0 10px;
+  right:37%;
+  width: 100%;
+  height: 70px;
+  border: none;
+  background: transparent url(../img/home/profile.png) no-repeat center top;
+  background-position: center 10%;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 /* Тренировки */
 #trnng {
   font-family: Tahoma;
@@ -18,10 +35,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d10/3ff07029e1a4/Muzyka.png?extra=OCq9fbwF0I4ztg4LWROf9M8L1mTB-RmlcmxJBJbaoZae5pPNGsKeThTDOYYlDww-OlED33YM4wsXNbqUZL8Z5EOm0K7FvLo1MIacGBjU1titCpFyyd6enApnO9m1Q73KCSZtPErWt9jcSS2oIjOht_8);
+  background: transparent url(../img/home/training.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
   
 }
@@ -36,10 +53,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856332/u226797314/docs/d16/47316c027832/2.png?extra=em_ZdvHI-aSzt85sMTgs8EtLQ4XS3Evlt9Xgyu2Fj2liFWMVCgRpUS-M9P9ppdC6Vpyhe7NECqhIvlCRHf6yEw1iGuqFFutd70uVtpQT6Ky1I8c-AIBYwwjP9AUGcOp6eJ90M7suncBt_Y8qSzaDOEQ);
+  background: transparent url(../img/home/food.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
   
 }
@@ -54,10 +71,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856332/u226797314/docs/d8/8973369dc4fb/3.png?extra=Qhli4km4ll66YFXmhEFzEH6lEGTCxaLZpTMVi91Wp5-h7SzhaWHZpiydJgrKPTXTpFcTDQ00jmaqeEsgRVzTIaHcsD9tXkGgvl57tXzv1_QuhZsKpe__kSi6zu7H7U61_rMr_JVOp1_hNrZ-XK0cGNI);
+  background: transparent url(../img/home/music.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 100px;
+  background-size: 100%;
   background-repeat: no-repeat;
   
 }
@@ -72,27 +89,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856332/u226797314/docs/d13/0f10a36f60a0/4.png?extra=MYum01la4x8qv9MoE__C5z3rYlZWg9iI2hKBYYefYV5HgpCJIeNpLWmrdhB6jplnckgXxxmClMrwQkMxeORUf0CudpTK2kXPkW1nO1fzB9gw0XeX-o_PYP5ut71xZ9XXQ2foddK5kQCoOouM1Z7a_ls);
+  background: transparent url(../img/home/sportfood.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
-  background-repeat: no-repeat;
-}
-/* Профиль */
-#prfl {
-  font-family: Tahoma;
-  font-size:150%;
-  font-weight: bold;
-  color: white;
-  text-shadow: black 0 0 10px;
-  right:37%;
-  width: 100%;
-  height: 70px;
-  border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d4/7c82234d950e/Dizayn_bez_nazvania_10.png?extra=pH7q-0bS4pDRcKlDcu72cfZlv3WO1kVfAsepFj0DeG_f0_XHm-dQeSilo9NVgkO8mS1zBC4Z8X2abSy3hu-OUO-Fq2HkWCLZ8vkwVXgvC1zjA4cNFMmIsoBvKyoSsW2rRLtpdgVN-tOOohS7VZ8uXuc);
-  background-position: center 10%;
-  border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Тренировки-новичок(noob) */
@@ -106,10 +106,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856332/u226797314/docs/d6/6d4eec4f1f97/1.png?extra=_jZpJCQOHQ6WjNl1VoKa_XOX4imToht_rzhGByq3RHvrkHhViDJvDMt7nKIUtdM-Ur8TAIOnBtRzv6sUo7bxOZGJ04uAW6wu5khSw8zyXTd0eGljRInkLBwetBYPavQe_-xgp2UEapQroYgdkowcMn0);
+  background: transparent url(../img/training/noob.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Тренировки-опытный(skillful) */
@@ -123,10 +123,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856332/u226797314/docs/d13/8e9238e73977/2.png?extra=91nNVbAyxke-gnyncg7BT77A-n2gEmQsOZ5g-tEnCoQEwOK8_OA606DRBUCK1KbLifQTNeKQeyNkxQikOdq-Bge7aGCvu01UlllTeo2igfD5CIxUB4WLyqMbCJQ9Yrr9ZDwklK8935NOgrnADGv9gKY);
+  background: transparent url(../img/training/skillful.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Тренировки-мастер(master) */
@@ -140,10 +140,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856332/u226797314/docs/d17/01be8a3cc1f0/3.png?extra=J1XjJi3I4dVV8Rpg9JKwLUdXqS8TkfbtiT74Cs_7AkibaQy5dFymet3j9O8meVoMvj1gGHCs66ko2cWRgintTpA_e2EKSDVZPJkKtfOd0JnQL52rRMBT4OkVrf7Esrqez2CcGIQ5uHGQaeiD1tWrYag);
+  background: transparent url(../img/training/master.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Калькулятор БЖУ и Ккал */
@@ -157,10 +157,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d2/f17a5efdc536/Dizayn_bez_nazvania_8.png?extra=x1N24gEAxNNdkXLQpL-ciFfq-gihUyEC6H8Jbi4zW3PyXGQF6D8Rc3AGM_GSRwhxv4tRnEpD1kcT8RXFefVl9kDzCHvwjSCVy6gy5g2A6oQTXfjce6SjZAlg3H6pK6J3E7LMVHIRe5bkgpTkF_HjBv8);
+ background: transparent url(../img/food/calc.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Дневной рацион (диета) */
@@ -174,10 +174,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d11/8d03028c9c2d/Dizayn_bez_nazvania_7.png?extra=RILX1x1cc6iedDSmqgvEe00-x6cboApX1QZed3o0kTJbbL1-gL7oR676S_g7SLqJUNJV7eh6CmmDqSlCBHVWqtmD5h30eLEKM_U5NCxycK872BEBDJnLSbyNYmzYicHju5OPhm9MnUG7WVyx14X2a4g);
+  background: transparent url(../img/food/diet.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Плавная музыка smooth*/
@@ -191,10 +191,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d4/b3dd8d9fa358/Dizayn_bez_nazvania_13.png?extra=4AEMiSpCIJxHbV_OHqRPgP9yuxsxsrBuX2CRr5dW1KPNAv4dpbit_Ch028dAJBgLZhFP9CWHNrue0kHsyEtl4zeTolIfZDF1E6ny4fLZD3vobkvgUSOBy0JGnSOHoSQoNYxETuIYjgtvDkjDKy492mY);
+  background: transparent url(../img/music/smoth.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Энергичная музыка */
@@ -208,10 +208,10 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d8/8173ffc5e444/Dizayn_bez_nazvania_11.png?extra=eQIX2s02K45EspTtGWt0sJchFtkAmjLAqxAIYr1YlI9hjITwHu7uElF7z2xdZ6RAD2ZstMrHCSHTdrovxLacWis8riGWAjIq5hp0GFvqOV8ApJzgvggVRyY3Ogv9FqGG0F1QVg_whQgwcL0nPL8naiw);
+  background: transparent url(../img/music/energetic.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 /* Агрессивная музыка */
@@ -225,9 +225,9 @@
   width: 100%;
   height: 70px;
   border: none;
-  background-image: url(https://psv4.userapi.com/c856436/u226797314/docs/d2/33165affb283/Dizayn_bez_nazvania_12.png?extra=2rAqyjgrPvmOkdRN3Y-cY8eXoLRVBZ1Y0kKjRJylKWK7iuXq6mzJpI8KnxIUH5gvYWNlZn99UB3PLvcWu64SsBf-IqCcFNMETZcBy_Py1OkgmBX1O1MAFUht8kjCX9x5pKI5HeOWok_mNZccaYdhDGY);
+  background: transparent url(../img/music/angry.png) no-repeat center top;
   background-position: center 10%;
   border-radius: 20px;
-  background-size: 350px 70px;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
